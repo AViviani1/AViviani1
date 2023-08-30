@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AViviani1 (Alessandro Viviani)
 - 👀 I’m interested in Artificial Intelligence
-- 💞️ I’d like to collaborate on a replica of Neurosama by Vedal
+- 💞️ I’d love to collaborate on replicating Neurosama by Vedal
 - 📫 How to reach me: a.viviani246@gmail.com
 
 <!---
