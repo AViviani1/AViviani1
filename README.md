@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AViviani1 (Alessandro Viviani)
 - 👀 I’m interested in Artificial Intelligence
-- 💞️ I’d love to collaborate on AI projects
 - 📫 How to reach me: a.viviani246@gmail.com
 
 <!---
